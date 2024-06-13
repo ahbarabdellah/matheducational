@@ -1,13 +1,13 @@
 /********** Template CSS **********/
 :root {
-    --primary: #f69050;
-    --light: #F0FBFC;
+    --primary: #5E17EB;
+    --light: #8C52FF;
     --light: #f0e4de;
-    --dark: #181d38;
+    --dark: #214060;
 }
 
 .btn {
-    background-color: #fb873f;
+    background-color: #5E17EB;
     border: none;
 }
 
@@ -158,11 +158,11 @@
 }
 
 .navbar-toggler-icon {
-    color: #fb873f;
+    color: #5E17EB;
 }
 
 .navbar-toggler {
-    border: 2px solid #fb873f;
+    border: 2px solid #5E17EB;
 }
 
 @media (min-width: 992px) {
